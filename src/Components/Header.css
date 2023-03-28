@@ -1,0 +1,11 @@
+.header {
+  display: flex;
+  justify-content: center;
+  /* box-shadow: rgba(252, 211, 77, 0.25) 0px 3px 8px; */
+  box-shadow: #4e46e528 0px 3px 8px;
+}
+
+.logo {
+  height: 100px;
+  width: 200px;
+}

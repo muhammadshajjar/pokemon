@@ -1,0 +1,13 @@
+.goback-btn {
+  background-color: #fcd34d;
+  border: none;
+  height: 60px;
+  width: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+}
+.goback-btn:hover {
+  cursor: pointer;
+}

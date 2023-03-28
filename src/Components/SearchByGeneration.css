@@ -1,0 +1,13 @@
+.filter {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 0;
+}
+
+.filter select {
+  padding: 15px;
+  border: none;
+  border: 1px solid rgba(149, 157, 165, 0.5);
+  border-radius: 5px;
+}

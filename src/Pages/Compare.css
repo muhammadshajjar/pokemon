@@ -1,0 +1,55 @@
+.compare-input {
+  display: flex;
+  justify-content: center;
+  column-gap: 10px;
+}
+.compare-input input {
+  padding: 15px;
+  max-width: 300px;
+  width: 100%;
+  border: 1px solid rgb(197, 192, 192);
+  border-radius: 6px;
+  font-size: 17px;
+}
+
+.result {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  column-gap: 20px;
+}
+
+.fighting {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.fighting img {
+  margin-top: 40px;
+  border-radius: 8px;
+}
+.fighting h3 {
+  font-size: 22px;
+}
+
+.compare-btn {
+  background-color: var(--primary-yellow);
+  border: none;
+  border-radius: 3px;
+  padding: 0 25px;
+  font-size: 17px;
+  cursor: pointer;
+  font-weight: medium;
+}
+
+.fight-btn {
+  background-color: var(--primary-blue);
+  border: none;
+  border-radius: 3px;
+  font-size: 17px;
+  cursor: pointer;
+  padding: 10px 20px;
+  color: white;
+  font-weight: bold;
+}

@@ -1,0 +1,24 @@
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+:root {
+  --primary-yellow: #fcd34d;
+  --primary-blue: #4f46e5;
+}
+
+p,
+h1,
+h2,
+h3,
+h4 {
+  margin: 0;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 1440px;
+  width: 96%;
+}

@@ -1,0 +1,29 @@
+.navigation-cont {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  column-gap: 16px;
+}
+
+.navigation-btn {
+  display: flex;
+  align-items: center;
+  font-size: 18px;
+  font-weight: medium;
+  padding: 10px 16px;
+  border: none;
+  border-radius: 6px;
+  font-weight: bold;
+}
+.navigation-btn:hover {
+  cursor: pointer;
+}
+
+.com-btn {
+  background-color: #fcd34d;
+  color: #4f46ef;
+}
+.fav-btn {
+  background-color: #4f46ef;
+  color: white;
+}
